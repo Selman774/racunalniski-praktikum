@@ -1,3 +1,26 @@
+h1 {
+    color: #330066 
+}
+h2 {
+    margin-top: 2em;
+    border-top-width: 1px;
+    border-top-color: #660066;
+    border-top-style: solid;
+    padding: 0.5em;
+
+}
+#uvod {
+    padding: 2em;
+    background-color: rgb(51, 0, 102, 0.1);
+
+}
+.slika{
+    border-width: 2px;
+    border-color: red;
+    border-style: solid;
+
+}
+
 body {
     /*  Barva pisave pod značko oz. oznako  */
     color: #333333; 
