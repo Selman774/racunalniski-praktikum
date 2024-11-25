@@ -1,15 +1,24 @@
 # VSCode uporabniške nastavitve
 .vscode/
-
-# LaTeX
-*.aux
-*.bbl
-*.blg
-*.fdb_latexmk
-*.toc
-*.fls
-*.log
-*.out
-*.pdf
-*.pyc
-*.synctex.gz
+latex-test.aux
+latex-test.fdb_latexmk
+latex-test.fls
+latex-test.log
+latex-test.pdf
+latex-test.tex
+urnik-resitev.pdf
+urnik.aux
+urnik.fdb_latexmk
+urnik.fls
+urnik.log
+urnik.pdf
+urnik.synctex(busy)
+1-osnove.tex
+2-matematika.tex
+3-tabele.tex
+4-citati.tex
+5-prosojnice.tex
+kuza.jpg
+latex-simboli.pdf
+literatura.bib
+muca.jpg
