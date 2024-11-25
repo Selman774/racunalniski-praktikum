@@ -12,7 +12,7 @@ urnik.fdb_latexmk
 urnik.fls
 urnik.log
 urnik.pdf
-urnik.synctex(busy)
+urnik.synctex.gz
 1-osnove.tex
 2-matematika.tex
 3-tabele.tex
